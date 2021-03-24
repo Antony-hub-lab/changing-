@@ -1,0 +1,9 @@
+#int
+age=28
+#int
+salary="45000"
+#name
+name="employee"
+print(age)
+print(salary)
+print(name)
